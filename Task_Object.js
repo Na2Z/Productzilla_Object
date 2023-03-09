@@ -3,6 +3,9 @@ console.log("Task Object");
 // Buat 3 Object dengan 5 properti
 //outputkan datanya satu persatu
 
+// Shahnaz Ferdiansyah
+// BE Class
+
 let person = {
   Nama: "Maestro",
   Umur: 28,
